@@ -1,0 +1,28 @@
+@import "_header";
+
+body {
+    font-size: 100px;
+    div {
+        font-size: 30px;
+        color: aqua;
+    }
+}
+aside {
+    font-size: 30px;
+    ul {
+        li {
+            font-size: large;
+        }
+    }
+}
+.link {
+    color: red;
+    &:hover {
+        color: blue;
+    }
+}
+main {
+    div {
+        font-size: 37px;
+    }
+}
