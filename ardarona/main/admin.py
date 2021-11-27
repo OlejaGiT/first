@@ -4,3 +4,4 @@ from .models import *
 
 admin.site.register(Team)
 admin.site.register(PrilTeam)
+admin.site.register(Home)
