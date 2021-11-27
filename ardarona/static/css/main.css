@@ -113,6 +113,7 @@ hr {
     align-items: center;
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
 }
 .header_link {
     text-decoration: none;
