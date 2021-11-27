@@ -1236,7 +1236,9 @@ hr {
     .wedo__img {
         display: none;
     }
-
+    .intro__inner {
+        width: 100%;
+    }
     .blog__item {
         width: 100%;
         max-width: 410px;
@@ -1295,9 +1297,6 @@ hr {
     }
     .intro__suptitle {
         font-size: 20px;
-    }
-    .intro__inner {
-        width: 100%;
     }
     .nav__link {
         font-size: 15px;
